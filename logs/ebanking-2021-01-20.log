@@ -1,0 +1,10 @@
+23:17:15.156 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+23:17:24.225 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+23:17:24.277 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+23:17:24.344 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+23:17:24.554 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+23:17:24.581 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+23:17:24.647 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+23:17:24.665 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+23:17:24.665 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (08e4f55dd3f16b03316c1956fec538f8)] -> name: btnLogin]
+23:17:26.819 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (08e4f55dd3f16b03316c1956fec538f8)] -> name: btnLogin]

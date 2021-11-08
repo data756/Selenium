@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="inetbankingV1">
+<listeners>
+	<listener class-name="com.inetbanking.base.TestListeners"/>
+</listeners>
+	<test name="banking test with Chrome">
+		<classes>
+			<class name="maven.maventest.API"/>
+		</classes>		
+	</test>
+</suite>

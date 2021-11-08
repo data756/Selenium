@@ -1,0 +1,4 @@
+12:09:49.221 INFO  TC_LoginTest_001 -URL is opened
+12:09:49.337 INFO  TC_LoginTest_001 -Username is entered
+12:09:49.408 INFO  TC_LoginTest_001 -Password is entered
+12:09:51.209 INFO  TC_LoginTest_001 -Login test passed

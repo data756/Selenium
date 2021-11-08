@@ -1,0 +1,4 @@
+23:48:47.839 INFO  TC_LoginTest_001 -Username is entered
+23:48:47.930 INFO  TC_LoginTest_001 -Password is entered
+23:48:49.828 INFO  TC_LoginTest_001 -clicked on Login button
+23:48:49.838 INFO  TC_LoginTest_001 -Login test passed

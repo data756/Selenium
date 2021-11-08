@@ -1,0 +1,32 @@
+01:07:06.513 INFO  ExtentManager -************Report Path************
+01:07:06.517 INFO  ExtentManager -D:\Testing\Eclipse\workspace\TF_AAA//Reports//inetBanking_Automation_Report_01_27_2021 01_07_06.html
+01:07:06.518 INFO  ExtentManager -************Report Path************
+01:07:06.676 INFO  TestListeners -OnStart -> Test Tag Name: banking test with Chrome
+01:07:06.676 INFO  TestListeners -This method will be executed in this <test> tag
+01:07:06.676 INFO  TestListeners -TC_LoginTest_001.loginTest(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@2a39fe6a]
+01:07:06.690 INFO  WebDriverFactory -OS name from system property :: win
+01:07:06.690 INFO  WebDriverFactory -Driver Binary :: D:\Testing\Eclipse\workspace\TF_AAA//Drivers//chromedriver.exe
+01:07:18.515 INFO  CheckPoint -Clearning Hash Map
+01:07:18.586 INFO  CustomDriver -Elemet  Username Field   Found With: name=>uid
+01:07:18.782 INFO  CustomDriver -Sent keys on element::  Username Field   with data ::mngr476591
+01:07:18.803 INFO  CustomDriver -Elemet  Password Field  Found With: name=>password
+01:07:18.927 INFO  CustomDriver -Sent keys on element::  Password Field  with data ::123456@
+01:07:18.942 INFO  CustomDriver -Elemet  Login Button  Found With: name=>btnLogin
+01:07:19.612 INFO  CustomDriver -Click on ::  Login Button 
+01:07:19.629 INFO  TestListeners -onTestFailure->Test Method Name: loginTest
+01:07:19.636 INFO  WebDriverFactory -OS name from system property :: win
+01:07:19.636 INFO  WebDriverFactory -Driver Binary :: D:\Testing\Eclipse\workspace\TF_AAA//Drivers//chromedriver.exe
+01:07:21.785 INFO  CustomDriver -Elemet  Username Field   Found With: name=>uid
+01:07:21.856 INFO  CustomDriver -Sent keys on element::  Username Field   with data ::mngr47659
+01:07:21.866 INFO  CustomDriver -Elemet  Password Field  Found With: name=>password
+01:07:21.938 INFO  CustomDriver -Sent keys on element::  Password Field  with data ::123456@
+01:07:21.948 INFO  CustomDriver -Elemet  Login Button  Found With: name=>btnLogin
+01:07:23.953 INFO  CustomDriver -Click on ::  Login Button 
+01:07:23.984 INFO  CheckPoint -tc-01 . Login Successful Verification :-> PASS
+01:07:24.006 INFO  CustomDriver -Elemet Manager ID Found With: xpath=>//td[contains(text(),'Manger Id')]
+01:07:24.006 INFO  CustomDriver -Getting Text on Element :: Manager ID
+01:07:24.025 INFO  CustomDriver -The text is ::Manger Id : mngr47659
+01:07:24.026 INFO  CheckPoint -tc-01 . ManagerID Display HomePage :-> PASS
+01:07:24.026 INFO  CheckPoint -Test Successful
+01:07:24.029 INFO  TestListeners -onTestSuccess->Test Method Name: loginTest
+01:07:24.770 INFO  TestListeners -OnFinish-> Test Tag Name: banking test with Chrome

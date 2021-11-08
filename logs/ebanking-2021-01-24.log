@@ -1,0 +1,168 @@
+02:22:07.435 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:22:10.664 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:22:10.685 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:22:10.720 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:22:10.929 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:22:10.949 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:22:11.075 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:22:11.095 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:22:11.097 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (3508f1adc6be12c1a5a84efefa4efd13)] -> name: btnLogin]
+02:22:13.393 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (3508f1adc6be12c1a5a84efefa4efd13)] -> name: btnLogin]
+02:22:13.424 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:22:13.449 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:24:01.554 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:24:04.508 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:24:04.524 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:24:04.553 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:24:04.742 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:24:04.767 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:24:04.872 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:24:04.888 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:24:04.888 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (ccc0b479da21793bb41c31b9e537b8ea)] -> name: btnLogin]
+02:24:06.633 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (ccc0b479da21793bb41c31b9e537b8ea)] -> name: btnLogin]
+02:24:06.666 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:24:06.687 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:28:39.189 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:28:41.742 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:28:41.763 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:28:41.799 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:28:41.958 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:28:41.973 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:28:42.070 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:28:42.089 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:28:42.090 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (7b8ed8a4911e843f99393972ca024149)] -> name: btnLogin]
+02:28:43.737 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (7b8ed8a4911e843f99393972ca024149)] -> name: btnLogin]
+02:28:43.770 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:28:43.790 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:29:56.665 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:29:59.581 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:29:59.596 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:29:59.624 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:29:59.796 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:29:59.818 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:29:59.916 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:29:59.932 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:29:59.933 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (904c058f5740beac3a452ac1c42a9348)] -> name: btnLogin]
+02:30:01.764 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (904c058f5740beac3a452ac1c42a9348)] -> name: btnLogin]
+02:30:01.788 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:30:01.821 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:31:20.057 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:31:23.361 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:31:23.373 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:31:23.398 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:31:23.550 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:31:23.567 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:31:23.667 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:31:23.684 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:31:23.685 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (e949d0d12a947af4dbbbf497a9f95de8)] -> name: btnLogin]
+02:31:24.147 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (e949d0d12a947af4dbbbf497a9f95de8)] -> name: btnLogin]
+02:34:15.410 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:34:18.640 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:34:18.654 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:34:18.679 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:34:18.898 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:34:18.913 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:34:18.992 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:34:19.009 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:34:19.010 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (17347bbaacab2ae297dc6ac75893dca2)] -> name: btnLogin]
+02:34:21.207 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (17347bbaacab2ae297dc6ac75893dca2)] -> name: btnLogin]
+02:34:21.249 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:34:21.273 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:34:58.019 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+02:35:00.775 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+02:35:00.809 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+02:35:00.941 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+02:35:01.235 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+02:35:01.265 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+02:35:01.439 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+02:35:01.467 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+02:35:01.468 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (bffbf3adeffbe9302a7c4b3391a26c08)] -> name: btnLogin]
+02:35:04.134 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (bffbf3adeffbe9302a7c4b3391a26c08)] -> name: btnLogin]
+02:35:04.195 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+02:35:04.238 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+03:09:14.311 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+03:09:16.822 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+03:09:16.841 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+03:09:16.879 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+03:09:17.121 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+03:09:17.140 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+03:09:17.239 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+03:09:17.255 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+03:09:17.256 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (8e17b58450535c252b8f678b07c4a225)] -> name: btnLogin]
+03:09:19.157 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (8e17b58450535c252b8f678b07c4a225)] -> name: btnLogin]
+03:09:19.171 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+03:09:19.194 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+18:31:23.447 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+18:31:25.574 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+18:34:46.962 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+18:34:49.601 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+18:34:50.072 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+18:34:50.095 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+18:34:50.200 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+18:34:50.212 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+18:34:50.280 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+18:34:50.292 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+18:34:50.292 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (0a8994db4bc7e24573f2e00f90f2d338)] -> name: btnLogin]
+18:34:50.668 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (0a8994db4bc7e24573f2e00f90f2d338)] -> name: btnLogin]
+18:34:50.683 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+18:34:52.634 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+18:34:52.707 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+18:34:52.716 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+18:34:52.784 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+18:34:52.794 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+18:34:52.794 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (0a8994db4bc7e24573f2e00f90f2d338)] -> name: btnLogin]
+18:34:53.401 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (0a8994db4bc7e24573f2e00f90f2d338)] -> name: btnLogin]
+19:34:44.701 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+19:34:47.943 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+19:34:48.979 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+19:34:49.016 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+19:34:49.217 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+19:34:49.241 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+19:34:49.348 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+19:34:49.366 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+19:34:49.366 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (22465dd58bdf72926e84c858dc3b4f1c)] -> name: btnLogin]
+19:34:51.342 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (22465dd58bdf72926e84c858dc3b4f1c)] -> name: btnLogin]
+19:34:51.415 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:34:51.453 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:34:51.516 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+19:34:54.597 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+19:34:57.624 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+19:35:01.336 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:35:01.357 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:35:30.556 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+19:35:33.243 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+19:35:34.074 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+19:35:34.098 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+19:35:34.260 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+19:35:34.274 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+19:35:34.361 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+19:35:34.379 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+19:35:34.379 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (8a2ab27f1e6cce95d04aee63e1425850)] -> name: btnLogin]
+19:35:36.323 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (8a2ab27f1e6cce95d04aee63e1425850)] -> name: btnLogin]
+19:35:36.350 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:35:36.370 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:35:36.398 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+19:35:39.457 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+19:35:42.537 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+19:35:46.222 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:35:46.242 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:42:34.468 INFO  BaseClass -Before navigating to: 'http://www.demo.guru99.com/v4/'
+19:42:37.272 INFO  BaseClass -After navigating to: 'http://www.demo.guru99.com/v4/'
+19:42:37.954 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+19:42:37.974 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+19:42:38.087 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+19:42:38.105 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+19:42:38.224 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+19:42:38.237 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+19:42:38.238 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (4c8ad6da7925f8075a9cd945e509b547)] -> name: btnLogin]
+19:42:38.669 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (4c8ad6da7925f8075a9cd945e509b547)] -> name: btnLogin]
+19:42:38.707 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: uid
+19:42:40.284 INFO  TC_LoginTest_001 -Found Element By : By.name: uid
+19:42:40.442 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: password
+19:42:40.461 INFO  TC_LoginTest_001 -Found Element By : By.name: password
+19:42:40.594 INFO  TC_LoginTest_001 -Trying to find Element By : By.name: btnLogin
+19:42:40.608 INFO  TC_LoginTest_001 -Found Element By : By.name: btnLogin
+19:42:40.608 INFO  TC_LoginTest_001 -Before Clicking on [[ChromeDriver: chrome on WINDOWS (4c8ad6da7925f8075a9cd945e509b547)] -> name: btnLogin]
+19:42:42.694 INFO  TC_LoginTest_001 -After Clicking on [[ChromeDriver: chrome on WINDOWS (4c8ad6da7925f8075a9cd945e509b547)] -> name: btnLogin]
+19:42:42.770 INFO  TC_LoginTest_001 -Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+19:42:42.808 INFO  TC_LoginTest_001 -Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
